@@ -28,6 +28,7 @@ Run train_swin_backbone.py to train the feature extractor. After training, run e
 First, run Teacher_trainer.py to train a teacher model. Then, run the Student_trainer.py to train a student model. We provide Trainer_total_Abalation.sh for the complete training process.
 # Citation
 If you are interested in this work, please cite the following work:
+```bibtex
 @InProceedings{guan2024labelguided,
   author       = {Guan, Jiale and Zou, Xiaoyang and Tao, Rong and Zheng, Guoyan},
   editor       = {Linguraru, Marius George and Dou, Qi and Feragen, Aasa and Giannarou, Stamatia and Glocker, Ben and Lekadir, Karim and Schnabel, Julia A.},
