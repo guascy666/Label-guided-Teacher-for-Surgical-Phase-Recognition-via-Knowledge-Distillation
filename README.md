@@ -14,8 +14,7 @@ cross-attention transformer blocks for feature enhancement; and 2) we
 propose to use label information to sample positive (from same phase)
 and negative features (from different phases) in a supervised contrastive
 learning framework to learn better feature embeddings. Then, by minimizing feature similarity, the knowledge learnt by our teacher network
-is effectively distilled into a student network. At inference stage, the dis
-tilled student network can perform accurate surgical phase recognition
+is effectively distilled into a student network. At inference stage, the distilled student network can perform accurate surgical phase recognition
 taking only video frames as input.
 
 # Model Training
