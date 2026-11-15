@@ -1,4 +1,4 @@
-# Label-guided-teacher-for-surgical-phase-recognition
+# Label-guided Teacher for Surgical Phase Recognition via Knowledge Distillation
 # Introduction
 Hi, this is the code repository for "Label-guided Teacher for Surgical Phase
 Recognition via Knowledge Distillation" (Accepted by MICCAI 2024) in PyTorch.
